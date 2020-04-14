@@ -1,0 +1,8 @@
+insert into alien values (101,'Prakash','java')
+insert into alien values (103,'arakash','java')
+insert into alien values (104,'rrakash','C++')
+insert into alien values (105,'vrakash','python')
+insert into alien values (106,'2rakash','java') 
+insert into alien values (107,'trakash','java')
+insert into alien values (1017,'arakash','NODE')
+insert into alien values (1015,'prakash','java')
